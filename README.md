@@ -1,4 +1,4 @@
-# Forked from Iandau
+# Forked from Idanlau
 
 To compare and improve the prediction approach.
 
